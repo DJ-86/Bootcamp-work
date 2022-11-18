@@ -6,6 +6,9 @@ section {
 }
 
 img {
+  border: 10px solid darkblue;
+  padding: 10px;
+  margin: 20px;
   width: 200px;
   height: 200px;
   background-color: lightblue;
